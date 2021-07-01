@@ -33,4 +33,6 @@ indexes collections:
 	2. ic-latihan-2.js	= referring to array elements
 	3. ic-latihan-3.js	= populate an array
 	4. ic-latihan-4.js	= understanding length
-	5. ic-latihan-5.js	= iterating over arrays 
+	5. ic-latihan-5.js	= iterating over arrays
+	6. ic-latihan-6.js	= array method concat
+ 
