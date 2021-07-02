@@ -1,3 +1,9 @@
+    _       _                _ ____
+   / \   __| | ___          | / ___|
+  / _ \ / _` |/ _ \_____ _  | \___ \
+ / ___ \ (_| |  __/_____| |_| |___) |
+/_/   \_\__,_|\___|      \___/|____/
+=====================================
 - grammar and types
 	- latihan01	= output console dan komentar
 	- latihan02	= deklarasi variable
