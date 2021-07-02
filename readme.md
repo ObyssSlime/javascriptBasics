@@ -1,10 +1,10 @@
-grammar and types
-	1. latihan01	= output console dan komentar
-	2. latihan02	= deklarasi variable
-	3. latihan03	= tipe data primitif
-	4. latihan04	= tipe data kompleks
-expression and operators
-	5. latihan05	= operator aritmatika
+1. grammar and types
+	01. latihan01	= output console dan komentar
+	02. latihan02	= deklarasi variable
+	03. latihan03	= tipe data primitif
+	04. latihan04	= tipe data kompleks
+- expression and operators
+	- latihan05	= operator aritmatika
 	6. latihan06	= operator relasional
 	7. latihan07	= opertator persamaan
 	8. latihan08	= operator logika
