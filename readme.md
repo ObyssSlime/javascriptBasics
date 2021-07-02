@@ -1,52 +1,52 @@
-1. grammar and types
-	a. latihan01	= output console dan komentar
-	b. latihan02	= deklarasi variable
-	c. latihan03	= tipe data primitif
-	d. latihan04	= tipe data kompleks
+- grammar and types
+	- latihan01	= output console dan komentar
+	- latihan02	= deklarasi variable
+	- latihan03	= tipe data primitif
+	- latihan04	= tipe data kompleks
 - expression and operators
 	- latihan05	= operator aritmatika
-	6. latihan06	= operator relasional
-	7. latihan07	= opertator persamaan
-	8. latihan08	= operator logika
-	9. latihan09	= operator string
-	10. latihan10	= operator ternary
-control flow and orror handling
-	11. latihan11	= percabangan / control flow
-	12. latihan12	= pemilihan / switch statements
-loops and iteration
-	13. latihan13 	= perulangan dengan for / looping with for
-	14. latihan14	= perulangan dengan do-while / looping with do-while
-	15. latihan15	= perulangan dengan while / looping with while
-	16. latihan16 	= continue
-	17. latihan17	= break dan label
-function:
-	18. latihan18	= function
-	19. latihan19	= function: return
-	20. latihan20	= function: anonymous
-	21. latihan21	= function: scope
-	22. latihan22 	= function: closure
-	23. latihan23	= function: closure
-	24. latihan24 	= function: argument
-	25. latihan25	= function: default parameter	
-	26. latihan26	= function: arrow
-text formatting:
-	1. tf-latihan-1.js	= string object
-	2. tf-latihan-2.js	= multiple line
+	- latihan06	= operator relasional
+	- latihan07	= opertator persamaan
+	- latihan08	= operator logika
+	- latihan09	= operator string
+	- latihan10	= operator ternary
+- control flow and orror handling
+	- latihan11	= percabangan / control flow
+	- latihan12	= pemilihan / switch statements
+- loops and iteration
+	- latihan13 	= perulangan dengan for / looping with for
+	- latihan14	= perulangan dengan do-while / looping with do-while
+	- latihan15	= perulangan dengan while / looping with while
+	- latihan16 	= continue
+	- latihan17	= break dan label
+- function:
+	- latihan18	= function
+	- latihan19	= function: return
+	- latihan20	= function: anonymous
+	- latihan21	= function: scope
+	- latihan22 	= function: closure
+	- latihan23	= function: closure
+	- latihan24 	= function: argument
+	- latihan25	= function: default parameter	
+	- latihan26	= function: arrow
+- text formatting:
+	- tf-latihan-1.js	= string object
+	- tf-latihan-2.js	= multiple line
 
-indexes collections:
-	01. ic-latihan-1.js	= creating array
-	02. ic-latihan-2.js	= referring to array elements
-	03. ic-latihan-3.js	= populate an array
-	04. ic-latihan-4.js	= understanding length
-	05. ic-latihan-5.js	= iterating over arrays
-	06. ic-latihan-6.js	= array method concat
-	07. ic-latihan-7.js	= array method join
-	08. ic-latihan-8.js	= array method push
-	09. ic-latihan-9.js	= array method pop
-	10. ic-latihan-10.js	= array method shift
-	11. ic-latihan-11.js	= array method unshift
-	12. ic-latihan-12.js	= array method slice
-	13. ic-latihan-13.js	= array method splice
-	14. ic-latihan-14.js	= array method reverse
+- indexes collections:
+	- ic-latihan-1.js	= creating array
+	- ic-latihan-2.js	= referring to array elements
+	- ic-latihan-3.js	= populate an array
+	- ic-latihan-4.js	= understanding length
+	- ic-latihan-5.js	= iterating over arrays
+	- ic-latihan-6.js	= array method concat
+	- ic-latihan-7.js	= array method join
+	- ic-latihan-8.js	= array method push
+	- ic-latihan-9.js	= array method pop
+	- ic-latihan-10.js	= array method shift
+	- ic-latihan-11.js	= array method unshift
+	- ic-latihan-12.js	= array method slice
+	- ic-latihan-13.js	= array method splice
+	- ic-latihan-14.js	= array method reverse
 
 
