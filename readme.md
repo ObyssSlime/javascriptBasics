@@ -1,8 +1,8 @@
 1. grammar and types
-	01. latihan01	= output console dan komentar
-	02. latihan02	= deklarasi variable
-	03. latihan03	= tipe data primitif
-	04. latihan04	= tipe data kompleks
+	a. latihan01	= output console dan komentar
+	b. latihan02	= deklarasi variable
+	c. latihan03	= tipe data primitif
+	d. latihan04	= tipe data kompleks
 - expression and operators
 	- latihan05	= operator aritmatika
 	6. latihan06	= operator relasional
