@@ -35,4 +35,8 @@ indexes collections:
 	4. ic-latihan-4.js	= understanding length
 	5. ic-latihan-5.js	= iterating over arrays
 	6. ic-latihan-6.js	= array method concat
- 
+	7. ic-latihan-7.js	= array method join
+	8. ic-latihan-8.js	= array method push
+	9. ic-latihan-9.js	= array method pop
+	10. ic-latihan-10.js	= array method shift
+	11. ic-latihan-11.js	= array method unshift

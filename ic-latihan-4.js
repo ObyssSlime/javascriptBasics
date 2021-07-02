@@ -1,4 +1,4 @@
-// understanding lenght
+// understanding length
 let name = []
 name[30] = 'alex'
 
