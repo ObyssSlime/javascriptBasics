@@ -33,23 +33,30 @@
 	- latihan25	= function: default parameter	
 	- latihan26	= function: arrow
 - text formatting:
-	- tf-latihan-1.js	= string object
-	- tf-latihan-2.js	= multiple line
+	- tf-latihan-1.js = string object
+	- tf-latihan-2.js = multiple line
 
 - indexes collections:
-	- ic-latihan-1.js	= creating array
-	- ic-latihan-2.js	= referring to array elements
-	- ic-latihan-3.js	= populate an array
-	- ic-latihan-4.js	= understanding length
-	- ic-latihan-5.js	= iterating over arrays
-	- ic-latihan-6.js	= array method concat
-	- ic-latihan-7.js	= array method join
-	- ic-latihan-8.js	= array method push
-	- ic-latihan-9.js	= array method pop
-	- ic-latihan-10.js	= array method shift
-	- ic-latihan-11.js	= array method unshift
-	- ic-latihan-12.js	= array method slice
-	- ic-latihan-13.js	= array method splice
-	- ic-latihan-14.js	= array method reverse
+	- ic-latihan-1.js = creating array
+	- ic-latihan-2.js = referring to array elements
+	- ic-latihan-3.js = populate an array
+	- ic-latihan-4.js = understanding length
+	- ic-latihan-5.js = iterating over arrays
+	- ic-latihan-6.js = array method concat
+	- ic-latihan-7.js = array method join
+	- ic-latihan-8.js = array method push
+	- ic-latihan-9.js = array method pop
+	- ic-latihan-10.js = array method shift
+	- ic-latihan-11.js = array method unshift
+	- ic-latihan-12.js = array method slice
+	- ic-latihan-13.js = array method splice
+	- ic-latihan-14.js = array method reverse
+	- ic-latihan-15.js = array method sort
+	- ic-latuhan-16.js = array method indexOf
+	- ic-latuhan-17.js = array method lastIndexOf
 
-
+- keyed collections
+	- kc-latihan-1.js = map object
+	- kc-latihan-2.js = map iterate
+	- kc-latihan-3.js = set object
+	- kc-latihan-4.js = set iterate
