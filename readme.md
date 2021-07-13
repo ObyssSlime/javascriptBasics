@@ -60,3 +60,9 @@
 	- kc-latihan-2.js = map iterate
 	- kc-latihan-3.js = set object
 	- kc-latihan-4.js = set iterate
+
+- working with objects
+	- wo-latihan-1.js = objects and properties
+	- wo-latihan-2.js = creating objects using object initializers 
+	- wo-latihan-3.js = creating objects using a constructor function
+	- wo-latihan-4.js = creating objects using the object.create method 
